@@ -2,122 +2,106 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Muneer Ahmed
 
-[Link to another page](./another-page.html).
+Welcome to my personal portfolio — a glimpse into my journey as a backend-focused developer, a systems enthusiast, and someone with a deep-rooted passion for desi hip-hop. Here, you'll find my projects, thoughts, and ways to connect.
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## About Me
 
-# Header 1
+I'm Muneer Ahmed, a senior engineering student with a sharp focus on backend development, system design, and real-world problem-solving. I balance code with curiosity, always pursuing projects that push both technical skill and creative thinking.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+> "Engineering isn't just code — it's thought, structure, and vision."
 
-## Header 2
+---
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Skills & Interests
 
-### Header 3
+- **Backend Development**: JavaScript, TypeScript, Python, Java, C++
+- **Frameworks & Tools**: Next.js, Django, Docker, Git, WSL, Cloudflare, DigitalOcean, AWS
+- **Systems & Engineering**: Applied Operating Systems, Process Monitors, File Indexers, Resource Trackers
+- **Personal Passion**: Desi Hip-Hop — blending tech with culture for innovative ideas
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
+---
+
+## Featured Projects
+
+### 🖥️ Personal Web Archive & Search Engine
+A Java-based system designed to index, archive, and search personal web content efficiently, built to sharpen my system-level programming and design skills.
+
+### ⚙️ System Tools
+- **Process & Resource Monitor**
+- **Terminal Task & Time Tracker**
+- **File Search & Indexing Tool**
+
+Each built with a focus on practical utility, reinforcing both engineering principles and hands-on experience.
+
+---
+
+## Code Highlights
+
+```cpp
+// C++ code snippet for system-level efficiency
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Welcome to Muneer's Portfolio!" << endl;
+    return 0;
 }
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
+```javascript
+// Node.js service example
+const express = require('express');
+const app = express();
+
+app.get('/', (req, res) => res.send('Backend systems in action.'));
+
+app.listen(3000, () => console.log('Server running on port 3000'));
 ```
 
-#### Header 4
+---
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## Connect With Me
 
-##### Header 5
+| Platform         | Link                            |
+|------------------|---------------------------------|
+| GitHub           | [github.com/muneerahmed](https://github.com/muneerahmed) |
+| LinkedIn         | [linkedin.com/in/muneerahmed](https://linkedin.com/in/muneerahmed) |
+| Email            | muneer@example.com             |
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+---
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
+## Fun Fact
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt>Favorite Genre</dt>
+<dd>Desi Hip-Hop</dd>
+<dt>Dream Project</dt>
+<dd>A scalable tech product rooted in music culture</dd>
+<dt>Current Focus</dt>
+<dd>Backend Engineering + System Tools</dd>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+---
+
+## Gallery
+
+![Coding Vibes](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+![Creative Branches](https://guides.github.com/activities/hello-world/branching.png)
+
+---
+
+## Closing Note
+
+> "The goal isn't perfection — it's progress with purpose."
+
+Thanks for visiting! Whether you're a fellow dev, mentor, or collaborator, I'd love to connect and exchange ideas.
+
+---
 
 ```
-The final element.
-```
+End of page. But the journey continues.
